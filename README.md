@@ -6,8 +6,7 @@
 <h1 align="center">
   Gatsby minimal starter
 </h1>
-## Link to Site:
-    https://calvinsdeveloperjourney.gatsbyjs.io/
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
