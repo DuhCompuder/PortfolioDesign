@@ -7,6 +7,9 @@
   Gatsby minimal starter
 </h1>
 
+## LINK TO DEPLOYED SITE
+    https://calvinsdeveloperjourney.gatsbyjs.io/
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
