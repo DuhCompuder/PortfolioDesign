@@ -20,8 +20,13 @@ const Layout = ({ pageTitle, children }) => {
                         </Link>
                     </li>
                     <li className={navLinkItem}>
-                        <Link to="/about" className={navLinkText}>
-                            About
+                        <Link to="/recentProjects" className={navLinkText}>
+                            Most Recent Project
+                        </Link>
+                    </li>
+                    <li className={navLinkItem}>
+                        <Link to="/olderProjects" className={navLinkText}>
+                            Older Projects
                         </Link>
                     </li>
                 </ul>

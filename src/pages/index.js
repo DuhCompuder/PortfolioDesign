@@ -16,13 +16,17 @@ import { StaticImage } from 'gatsby-plugin-image'
 // }
 const IndexPage = () => {
   return (
-    <Layout pageTitle="Home Page">
-      <p>I'm making this by following the Gatsby Tutorial</p>
+    <Layout pageTitle="Introduction">
+      <p>Hello! My name is Calvin Sze. Welcome to my website! This place will host some of the projects I've worked on, explaintions of what I learned and experienced in software development.</p>
       <StaticImage
-        alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
+        alt="A nice picture of me"
         //src="https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large"
-        src="../images/DGLogo.jpg"
+        src="../images/MyPhoto.jpg"
+        
         />
+      <p>Although I dabbled a bit in coding here and there since the end of my senor year in high school, it wasn't until 2019 did I really dive in starting with JavaScript and then Node.js.</p>
+      <p>This website is built using Gatsby and React. First launched June 25, 2021. Please bear with me as this is my first time using Gatsby. You can find my updates on this website on my Github page: </p>
+      <p>https://github.com/DuhCompuder/PortfolioDesign</p>
     </Layout>
   )
 }
